@@ -11,3 +11,15 @@ REPORT_GAS=true npx hardhat test
 npx hardhat node
 npx hardhat run scripts/deploy.js
 ```
+
+
+
+```shell
+
+Try testing this smart contract.
+URL :-  https://mumbai.polygonscan.com/address/0x12fc3c44b4092ad55cf0212fa3a84a1210fced5f#writeContract
+
+
+```
+
+
